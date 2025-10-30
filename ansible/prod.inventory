@@ -1,0 +1,2 @@
+[appsrvgrp]
+localhost ansible_connection=local
